@@ -29,4 +29,4 @@ Explore the notebooks to dive deeper into machine learning fundamentals and star
 
 ---
 
-**Inspiration:** This project was born out of my passion for understanding machine learning deeply. I found inspiration in "AssemblyAI-Community / Machine-Learning-From-Scratch" GitHub repository while working on this project
+**Inspiration**: This project was born out of my passion for understanding machine learning deeply. I found inspiration in the [Machine-Learning-From-Scratch repository](https://github.com/AssemblyAI-Community/Machine-Learning-From-Scratch) while working on this project.
