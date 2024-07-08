@@ -40,7 +40,7 @@ Each notebook provides comprehensive guidance:
 **Folder**: Tree-Based Algorithms
 - **File**: DecisionTrees.ipynb
 - **File**: RandomForests.ipynb
-- 
+
 **Folder**: Ensemble Algorithms
 - **File**: Bagging.ipynb
 - **File**: Boosting.ipynb
