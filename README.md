@@ -30,6 +30,8 @@ Each notebook provides comprehensive guidance:
 
 **Folder**: Linear Algorithms
 - **File**: Multiple Linear Regression
+- **File**: Polynomial Regression
+- **File**: Regularization_Techniques
 
 **Folder**: Tree-Based Algorithms
 - **File**: Decision Trees
