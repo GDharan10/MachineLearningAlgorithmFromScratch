@@ -19,6 +19,22 @@ Each notebook provides comprehensive guidance:
 - **Implementation**: Python code demonstrating how the algorithm works.
 - **Visualization**: Examples and visualizations to aid understanding.
 
+## Current Implementations
+
+**Folder**: Linear Algorithms
+- **File**: LogisticRegression_BinaryClassification.ipynb
+- **File**: LogisticRegression_MulticlassClassification.ipynb
+- **File**: LinearRegression.ipynb
+
+## Planned Implementations
+
+**Folder**: Linear Algorithms
+- **File**: Multiple Linear Regression
+
+**Folder**: Tree-Based Algorithms
+- **File**: Decision Trees
+- **File**: Random Forests
+
 ## Contributions
 
 Contributions are encouraged to enhance existing implementations or add new algorithms. Please refer to the CONTRIBUTING.md file for guidelines on contributing to this project.
