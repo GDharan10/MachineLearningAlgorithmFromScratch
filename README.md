@@ -29,7 +29,7 @@ Each notebook provides comprehensive guidance:
 ## Ongoing Work
 
 **Folder**: Tree-Based Algorithms
-- **File**: DecisionTrees.ipynb
+- **File**: DecisionTreesClassification.ipynb
 
 ## Future Work
 
