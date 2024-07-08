@@ -39,7 +39,6 @@ Each notebook provides comprehensive guidance:
 - **File**: Regularization_Techniques.ipynb
 
 **Folder**: Tree-Based Algorithms
-- **File**: DecisionTrees.ipynb
 - **File**: RandomForests.ipynb
 
 **Folder**: Ensemble Algorithms
