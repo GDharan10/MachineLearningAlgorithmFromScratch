@@ -28,12 +28,13 @@ Each notebook provides comprehensive guidance:
 
 ## Ongoing Work
 
-**Folder**: Linear Algorithms
-- **File**: MultipleLinearRegression.ipynb
+**Folder**: Tree-Based Algorithms
+- **File**: DecisionTrees.ipynb
 
 ## Future Work
 
 **Folder**: Linear Algorithms
+- **File**: MultipleLinearRegression.ipynb
 - **File**: PolynomialRegression.ipynb
 - **File**: Regularization_Techniques.ipynb
 
