@@ -26,16 +26,24 @@ Each notebook provides comprehensive guidance:
 - **File**: LogisticRegression_MulticlassClassification.ipynb
 - **File**: LinearRegression.ipynb
 
-## Ongoing and Future Work
+## Ongoing Work
 
 **Folder**: Linear Algorithms
-- **File**: Multiple Linear Regression
-- **File**: Polynomial Regression
-- **File**: Regularization_Techniques
+- **File**: MultipleLinearRegression.ipynb
+
+## Future Work
+
+**Folder**: Linear Algorithms
+- **File**: PolynomialRegression.ipynb
+- **File**: Regularization_Techniques.ipynb
 
 **Folder**: Tree-Based Algorithms
-- **File**: Decision Trees
-- **File**: Random Forests
+- **File**: DecisionTrees.ipynb
+- **File**: RandomForests.ipynb
+- 
+**Folder**: Ensemble Algorithms
+- **File**: Bagging.ipynb
+- **File**: Boosting.ipynb
 
 Further algorithms and enhancements will be continuously added to expand the repository's capabilities.
 
