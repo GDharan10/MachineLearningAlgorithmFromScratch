@@ -26,7 +26,7 @@ Each notebook provides comprehensive guidance:
 - **File**: LogisticRegression_MulticlassClassification.ipynb
 - **File**: LinearRegression.ipynb
 
-## Planned Implementations
+## Ongoing and Future Work
 
 **Folder**: Linear Algorithms
 - **File**: Multiple Linear Regression
@@ -34,6 +34,8 @@ Each notebook provides comprehensive guidance:
 **Folder**: Tree-Based Algorithms
 - **File**: Decision Trees
 - **File**: Random Forests
+
+Further algorithms and enhancements will be continuously added to expand the repository's capabilities.
 
 ## Contributions
 
