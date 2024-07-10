@@ -34,7 +34,6 @@ Each notebook provides comprehensive guidance:
 ## Future Work
 
 **Folder**: Linear Algorithms
-- **File**: MultipleLinearRegression.ipynb
 - **File**: PolynomialRegression.ipynb
 - **File**: Regularization_Techniques.ipynb
 
